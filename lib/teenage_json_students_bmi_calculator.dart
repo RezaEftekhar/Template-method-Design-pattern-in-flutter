@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:templatemethodexample/jsonApi.dart';
 import 'package:templatemethodexample/students.dart';
+import 'package:templatemethodexample/students_bmi_calculator.dart';
 
 class TeenageStudentsJsonBmiCalculator extends StudentsBmiCalculator {
   const TeenageStudentsJsonBmiCalculator({
